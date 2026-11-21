@@ -11,3 +11,11 @@ Parte 2 — Aprenda a escrever prompts melhores
 Conhecer técnicas de prompting, entender quando utilizar abordagens como zero-shot, few-shot e chain-of-thought e aprender frameworks como RTF e APE para estruturar instruções de forma mais clara e consistente.
 
 Observação:  Este desafio tem em anexo o plano de estudo em formato pdf e o prompt em um arquivo txt.
+
+# PLANO DE ESTUDO (PROMPT)
+
+"Professor de Cibersegurança quer montar um plano de estudos para seus alunos com base no conteúdo do curso Santander - Cibersegurança do Zero a prática - https://web.dio.me/track/bootcamp-santander-ciberseguranca-do-zero-a-pratica.  Este plano deve começar em 23/11/2026 e terminar em 20/12/2026 sendo que o aluno deverá dedicar 2 horas por dia de segunda a sexta.
+O plano deve ter um título e um cronograma semanal  O objetivo é  o aluno ter um roteiro de trabalho bem direcionado ao seu desenvolvimento.
+Dicas para manter o ritmo são bem-vindas.
+Transformar ao cronograma também em uma tabela para consulta rápida do aluno.
+O plano deve ter links e materiais de apoio em português."
