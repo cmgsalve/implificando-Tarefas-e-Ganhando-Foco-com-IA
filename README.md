@@ -9,3 +9,5 @@ Entender como essas tecnologias se conectam e por que elas estão por trás de f
 
 Parte 2 — Aprenda a escrever prompts melhores
 Conhecer técnicas de prompting, entender quando utilizar abordagens como zero-shot, few-shot e chain-of-thought e aprender frameworks como RTF e APE para estruturar instruções de forma mais clara e consistente.
+
+Observação:  Este desafio tem em anexo o plano de estudo em formato pdf e o prompt em um arquivo txt.
